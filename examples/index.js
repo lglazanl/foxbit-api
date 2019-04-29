@@ -1,8 +1,8 @@
 let foxbit = require("../src/index");
 
 // Credencials
-let user = "";
-let password = "";
+let user = "fb558394@gmail.com";
+let password = "Felipe9898";
 
 foxbit.Connect(user, password);
 
